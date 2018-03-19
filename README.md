@@ -6,3 +6,7 @@ ZCZC W01 sudah
 ZCZC W02 done
 
 ZCZC W03 selesai
+
+ZCZC W04 ok
+
+ZCZC W0
