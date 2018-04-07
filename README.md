@@ -10,3 +10,5 @@ ZCZC W03 selesai
 ZCZC W04 ok
 
 ZCZC W05 nice
+
+ZCZC W06 sudah dicoba
