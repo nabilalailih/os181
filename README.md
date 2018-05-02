@@ -12,3 +12,8 @@ ZCZC W05 nice
 ZCZC W06 sudah dicoba
 
 ZCZC W07 done
+
+ZCZC W08 ok
+
+ZCZC W09 ok
+
